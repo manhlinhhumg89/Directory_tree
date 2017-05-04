@@ -1,0 +1,11 @@
+{
+  "name": "caporal",
+  "version": "1.0.0",
+  "description": "Demo Caporal_Tree",
+  "main": "index.js",
+  "author": "Linh",
+  "license": "MIT",
+  "dependencies": {
+    "caporal": "^0.3.0"
+  }
+}
