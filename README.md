@@ -1,7 +1,7 @@
 # Liệt kê thư mục từ 1 đường dẫn nhập vào từ Terminal(dùng Recursive)
 
 ## Các Module sử dụng:
-* fs, path(Các module có sắn trong Node.js)
+* fs, path(Các module có sẵn trong Node.js)
 * Cài thêm modul Color để sử dụng màu trong Nodejs
 * cài Caporal.js để có thể nhập tham số từ Terminal
 ## Phân tích bài toán
