@@ -1,4 +1,4 @@
-# Liệt kê thư mục từ 1 đường dẫn nhập vào từ Terminal(dùng Recursive)
+# Liệt kê thư mục từ 1 đường dẫn nhập vào từ Terminal(dùng Đệ quy)
 
 ## Các Module sử dụng:
 * fs, path(Các module có sẵn trong Node.js)
