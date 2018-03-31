@@ -1,4 +1,4 @@
-# Liệt kê thư mục từ 1 đường dẫn nhập vào từ Terminal(dùng Đệ quy)
+﻿# Liệt kê thư mục từ 1 đường dẫn nhập vào từ Terminal(dùng Đệ quy)
 
 ## Các Module sử dụng:
 * fs, path(Các module có sẵn trong Node.js)
@@ -80,7 +80,7 @@ let tree = (dir) => {
            │   └── Untitled Document
            └── folder1
 ---------------------------------------------
-17 directories , 9 files
+Bao gom: 17 directories , 9 files
 
 ```
 
